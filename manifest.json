@@ -1,0 +1,10 @@
+{
+  "id": "md-to-pdf",
+  "name": "MD2PDF",
+  "version": "0.0.1",
+  "minAppVersion": "0.9.12",
+  "description": "A plugin to convert markdown to PDF using web service [md-to-pdf.fly](https://md-to-pdf.fly.dev/).",
+  "author": "Y0L042",
+  "authorUrl": "https://github.com/Y0L042",
+  "isDesktopOnly": false
+}
